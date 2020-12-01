@@ -12,3 +12,5 @@ It contains the following bugs and shortcomings:
 To fix this, I had to write exceptions for the AttributeError.
 
 3)There is no limit on the number of links for one user.
+
+I would be happy if someone fixed the bugs and added their own innovations :)
